@@ -1,0 +1,20 @@
+# MAC APP STORE: Mac App Store apps are installed with mas-cli. 
+# They are listed at the end of this file.
+# Note that only apps that you have already purchased can be installed with mas-cli,
+# so you will need to install them manually the first time.
+
+### Mac App Store ###
+mas "Xcode", id: 497799835
+mas "Fantastical", id: 975937182
+mas "Focused Work", id: 1523968394
+mas "Toggl Track", id: 1291898086
+mas "Amphetamine", id: 937984704
+mas "PCalc", id: 403504866
+mas "Goodnotes", id: 1444383602
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Chambers Thesaurus", id: 498829958
+mas "New Oxford American Dictionary", id: 1066450412
+mas "Le Petit Robert 2018", id: 1292285658
+mas "HACK", id: 1464477788
+mas "myPoint Light S", id: 518658487
