@@ -20,7 +20,7 @@ brew bundle --file=Brewfile
 
 # Install the rest of the apps from the App Store using mas.
 brew install mas
-brew bundle --file=BrewfileMac
+brew bundle --file=BrewfileMAS
 # Upgrade all App Store apps
 mas upgrade
 
