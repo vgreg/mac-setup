@@ -21,18 +21,6 @@ cask "brave-browser"
 cask "google-chrome"
 cask "firefox"
 
-# ### Fonts ###
-tap "homebrew/cask-fonts" # You only need to do this once!
-brew "font-computer-modern" # LaTeX font
-brew "font-fira-code-nerd-font" # Monospace font
-brew "font-monaspace" # Monospace font
-brew "font-hack-nerd-font" # Monospace font
-brew "font-jetbrains-mono-nerd-font" # Monospace font
-brew "font-noto-mono" # Noto font family
-brew "font-noto-sans" # Noto font family
-brew "font-noto-serif" # Noto font family
-brew "font-noto-emoji" # Noto font family
-
 ### Terminal and CLI ###
 cask "iterm2" # Terminal emulator
 brew "tmux" # Terminal multiplexer

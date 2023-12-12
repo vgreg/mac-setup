@@ -12,6 +12,10 @@
 # Install almost everything from the Brewfile
 brew bundle --file=Brewfile
 
+### Fonts
+
+brew bundle --file=BrewfileFonts
+
 ### Mac App Store apps
 
 # You need to be signed in to the App Store for this to work,

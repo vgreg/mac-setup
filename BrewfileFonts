@@ -1,0 +1,11 @@
+# ### Fonts ###
+tap "homebrew/cask-fonts" # You only need to do this once!
+cask "font-computer-modern" # LaTeX font
+cask "font-fira-code-nerd-font" # Monospace font
+cask "font-monaspace" # Monospace font
+cask "font-hack-nerd-font" # Monospace font
+cask "font-jetbrains-mono-nerd-font" # Monospace font
+cask "font-noto-mono" # Noto font family
+cask "font-noto-sans" # Noto font family
+cask "font-noto-serif" # Noto font family
+cask "font-noto-emoji" # Noto font family
