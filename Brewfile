@@ -96,7 +96,7 @@ cask "whisky" # Wine wrapper
 cask "karabiner-elements" # Keyboard remapper
 cask "rectangle" # Window manager
 cask "bartender" # Menu bar manager
-brew "stats" # System monitor in the menu bar
+cask "stats" # System monitor in the menu bar
 
 ### Network and communication ###
 cask "termius" # SSH client

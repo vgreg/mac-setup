@@ -9,6 +9,10 @@
 # First install brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# Install Rosetta 2 for Apple Silicon
+# Required for Quarto
+sudo softwareupdate --install-rosetta
+
 # Install almost everything from the Brewfile
 brew bundle --file=Brewfile
 
