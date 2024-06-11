@@ -1,4 +1,4 @@
-# mac-config
+# mac-setup
 
 Personal setup details for Mac so I can do a clean install quickly.
 
@@ -36,7 +36,6 @@ cd ~/mac_config
 After running the script, the following steps need to be done manually:
 
 - [ ] Set Catpuccin theme in each app's settings
-- [ ] Download and install [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [ ] Sync VSCode settings
 - [ ] Sync GitHub repos (it's a private repo so I can't automate this)
 - [ ] Activate licenses for apps that require it
