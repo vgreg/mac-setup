@@ -15,7 +15,7 @@ It will also install the fonts, [Oh My Zsh](https://ohmyz.sh/), and the [Catppuc
 
 Close the repo:
 ```bash
-git clone https://github.com/vgreg/mac-config ~/mac_config
+git clone https://github.com/vgreg/mac-setup ~/mac_se
 ```
 
 **IMPORTANT STEPS**
